@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @dyggok
-- 👀 I’m interested in drawing, solving a software problem and playing pc games...
-- 🌱 I’m currently learning java, sql and automation test...
-- 💞️ I’m looking to collaborate on the companies which are about software...
-- 📫 I dont know how to reach me but you can research my projects...
+<img src="https://readme-typing-svg.herokuapp.com?color=%23FFC0D3&size=25&center=false&vCenter=false&width=433&height=75&lines=Hey!+I'm+Duygu">
+<img src="https://c.tenor.com/C_W9ZHt8ZS0AAAAC/emails-college.gif" width="300" class="float-end">
+- Software Engineer at [KPMG](https://home.kpmg/xx/en/home.html/)
 
-<!---
-dyggok/dyggok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
